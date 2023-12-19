@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Gmail-yellow?style=for-the-badge&logo=gmail&logoColor=blue" alt="Youtube Badge"/>
 </a>
 
-### *papers about the chatgpt, emotion & time & human*
+### *Papers about the chatgpt, emotion & time & human.*
 
 *some important articles:*
 - [Large Language Models Understand and Can Be Enhanced by Emotional Stimuli](arxiv.org/pdf/2307.11760.pdf)
