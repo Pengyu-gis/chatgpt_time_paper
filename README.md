@@ -14,5 +14,5 @@
 - [Bias in Emotion Recognition with ChatGPT](https://arxiv.org/pdf/2310.11753.pdf)
 - [Is GPT a Computational Model of Emotion? Detailed Analysis](https://arxiv.org/ftp/arxiv/papers/2307/2307.13779.pdf)
 - [Using cognitive psychology to understand GPT-3](https://www.pnas.org/doi/epdf/10.1073/pnas.2218523120)
-
-
+- [Time-LLM Time Series Forecasting by Reprogramming Large Language Models](https://openreview.net/forum?id=Unb5CVPtae)
+- [Taken out of context: On measuring situational awareness in LLMs](https://arxiv.org/abs/2309.00667)
