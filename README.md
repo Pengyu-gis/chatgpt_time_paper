@@ -16,3 +16,4 @@
 - [Using cognitive psychology to understand GPT-3](https://www.pnas.org/doi/epdf/10.1073/pnas.2218523120)
 - [Time-LLM Time Series Forecasting by Reprogramming Large Language Models](https://openreview.net/forum?id=Unb5CVPtae)
 - [Taken out of context: On measuring situational awareness in LLMs](https://arxiv.org/abs/2309.00667)
+- [Time is Encoded in the Weights of Finetuned Language Models](https://arxiv.org/abs/2312.13401)
